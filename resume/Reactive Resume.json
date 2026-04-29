@@ -1,0 +1,390 @@
+{
+  "basics": {
+    "customFields": [
+      {
+        "icon": "linkedin-logo",
+        "id": "e0b0e271-26c7-45e0-9988-12501a35a646",
+        "link": "https://linkedin.com/in/atindra-kumar-nath",
+        "text": "linkedin.com/in/atindra-kumar-nath"
+      }
+    ],
+    "email": "atindra.nath@outlook.in",
+    "headline": "A Full Stack Developer with 10 Years of Software Development Experience.",
+    "location": "",
+    "name": "Atindra Nath",
+    "phone": "+91 8050474709",
+    "website": {
+      "label": "github.com/amableati",
+      "url": "https://github.com/amableati"
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "css": {
+      "enabled": false,
+      "value": ""
+    },
+    "design": {
+      "colors": {
+        "background": "rgba(255, 255, 255, 1)",
+        "primary": "rgba(0, 0, 0, 1)",
+        "text": "rgba(0, 0, 0, 1)"
+      },
+      "level": {
+        "icon": "circle",
+        "type": "circle"
+      }
+    },
+    "layout": {
+      "pages": [
+        {
+          "fullWidth": true,
+          "main": [
+            "summary",
+            "experience",
+            "education",
+            "certifications",
+            "awards"
+          ],
+          "sidebar": []
+        }
+      ],
+      "sidebarWidth": 35
+    },
+    "notes": "",
+    "page": {
+      "format": "a4",
+      "gapX": 16,
+      "gapY": 16,
+      "hideIcons": false,
+      "locale": "en-US",
+      "marginX": 32,
+      "marginY": 32
+    },
+    "template": "onyx",
+    "typography": {
+      "body": {
+        "fontFamily": "Roboto",
+        "fontSize": 11,
+        "fontWeights": [
+          "400"
+        ],
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "Roboto",
+        "fontSize": 11,
+        "fontWeights": [
+          "400"
+        ],
+        "lineHeight": 1.5
+      }
+    }
+  },
+  "picture": {
+    "aspectRatio": 1,
+    "borderColor": "rgba(0, 0, 0, 1)",
+    "borderRadius": 0,
+    "borderWidth": 0,
+    "hidden": true,
+    "rotation": 0,
+    "shadowColor": "rgba(0, 0, 0, 1)",
+    "shadowWidth": 0,
+    "size": 128,
+    "url": ""
+  },
+  "sections": {
+    "awards": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "awarder": "ITC Infotech",
+          "date": "2022, 2023",
+          "description": "",
+          "hidden": false,
+          "id": "060d4b55-d360-4493-b248-89c09c3132e4",
+          "title": "Recognized for being efficient \u0026 reliable towards tasks",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "awarder": "Wipro Limited",
+          "date": "2019",
+          "description": "",
+          "hidden": false,
+          "id": "524c5520-27f9-4b66-8a9d-b4b0e8c75546",
+          "title": "Recognized for developing project modules",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "awarder": "TOCE",
+          "date": "2017",
+          "description": "",
+          "hidden": false,
+          "id": "848971f1-3375-4302-b062-8e7c10b27e69",
+          "title": "Scholarship By Wikimedia for Paper Presentation competition",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        }
+      ],
+      "title": "Achievement"
+    },
+    "certifications": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "date": "Feb 2025",
+          "description": "",
+          "hidden": false,
+          "id": "b0a996f0-50cf-46c5-8e2e-2e067c293707",
+          "issuer": "Coursera",
+          "title": "Advanced Prompt Engineering Techniques",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "Sept 2020",
+          "description": "",
+          "hidden": false,
+          "id": "d04a6217-10c5-4328-bd5c-b1cc8c54117b",
+          "issuer": "Coursera",
+          "title": "Data Structures and Algorithms",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "Jul 2015",
+          "description": "",
+          "hidden": false,
+          "id": "a189f76a-c215-4a6f-b27b-e10b1095f999",
+          "issuer": "T Group",
+          "title": "Oracle Certified Associate \u0026 Oracle Certified Professional",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "Jul 2013",
+          "description": "",
+          "hidden": false,
+          "id": "f5d0647c-7a95-4ecb-9528-9d4133d1c1a2",
+          "issuer": "NIIT",
+          "title": "Oracle Certified in Java Programming Language using Java SE 6",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        }
+      ],
+      "title": "Certifications"
+    },
+    "education": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "area": "",
+          "degree": "Master of Computer Application",
+          "description": "",
+          "grade": "",
+          "hidden": false,
+          "id": "71556094-0cfd-4a18-912a-71b3e80c85c2",
+          "location": "Bangalore, Karnataka",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "period": "August 2013 - July 2016",
+          "school": "Oxford College of Engineering",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "area": "",
+          "degree": "Bachelor of Computer Application",
+          "description": "",
+          "grade": "",
+          "hidden": false,
+          "id": "d0407d57-37d3-469b-8149-623b32e0c528",
+          "location": "Kalyani, West Bengal",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "period": "August 2010 - July 2013",
+          "school": "JIS College of Engineering",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        }
+      ],
+      "title": "Education"
+    },
+    "experience": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "company": "Majesco (Acquired Vitech System)",
+          "description": "\u003cul\u003e\u003cli\u003eEnhanced Core Administration functionality for the Vitech Velocity platform using Java, Spring Boot, and GWT, delivering robust enterprise-grade solutions.\u003c/li\u003e\u003cli\u003eArchitected the migration of a mission-critical Document Generation module from a legacy monolith to a standalone microservice using the Strangler Fig Pattern.\u003c/li\u003e\u003cli\u003eDecoupled complex document logic into a scalable, API-driven service, significantly improving fault isolation and reducing the need for extensive regression testing.\u003c/li\u003e\u003cli\u003eOptimized system performance by deploying services to AWS with auto-scaling capabilities, ensuring stability during peak-hour bulk operations.\u003c/li\u003e\u003cli\u003eReduced processing latency by integrating Redis as a distributed caching layer for high-frequency template metadata and document schemas.\u003c/li\u003e\u003cli\u003eEngineered RESTful APIs to expose core functionality, streamlining integration with existing system and process APIs while simplifying production bug triage.\u003c/li\u003e\u003cli\u003ePioneered high-quality code standards by enforcing Test-Driven Development (TDD) using JUnit and Mockito, ensuring 100% test coverage for new implementations.\u003c/li\u003e\u003cli\u003eCollaborated in a high-velocity Agile environment with 16-day sprints, consistently meeting delivery deadlines for the Enterprise Enablers Team.\u003c/li\u003e\u003cli\u003eMaintained system integrity by performing root-cause analysis and resolving critical bugs within the Core Administration codebase.\u003c/li\u003e\u003c/ul\u003e",
+          "hidden": false,
+          "id": "1b08c02c-5509-4e76-802e-a5793e25b17e",
+          "location": "Hyderabad",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "period": "12, Mar 2024 – Present",
+          "position": "Senior Developer",
+          "roles": [],
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "company": "ITC Infotech",
+          "description": "\u003cul\u003e\u003cli\u003eLed the consolidation of four environments into a single codebase on Salesforce Heroku Cloud for microservice Spring Boot applications.\u003c/li\u003e\u003cli\u003eCoordinated with Salesforce development and DevOps teams for seamless integration and deployment.\u003c/li\u003e\u003cli\u003eTroubleshot Heroku issues when data was not synchronized with Salesforce.\u003c/li\u003e\u003cli\u003eSynchronized field and data between Salesforce and Heroku.\u003c/li\u003e\u003cli\u003eManaged evolving requirements from global clients, estimating work hours and creating TDDs.\u003c/li\u003e\u003cli\u003ePromoted code changes through multiple environments for deployment.\u003c/li\u003e\u003cli\u003eWorked with RabbitMQ for message queuing within a microservice environment.\u003c/li\u003e\u003c/ul\u003e",
+          "hidden": false,
+          "id": "76af5ac2-0544-42f1-bd23-6447814316c0",
+          "location": "Bangalore",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "period": "22, Sept 2020 – 7, Mar 2024",
+          "position": "Associate IT Consultant",
+          "roles": [],
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "company": "CARE4D",
+          "description": "\u003cul\u003e\u003cli\u003eDeveloped an internal website for the Telepresenz product from scratch using ReactJS, HTML, CSS, Bootstrap, JavaScript, and JSON.\u003c/li\u003e\u003cli\u003eIntegrated Chart.js for data visualization and OpenTok for live video streaming broadcasts.\u003c/li\u003e\u003cli\u003eManaged OpenTok session creation, signaling, and moderation.\u003c/li\u003e\u003cli\u003eWorked closely with development teams, QA to define \u0026 demonstrate poc of new product offering while ensuring continuous functionalities.\u003c/li\u003e\u003cli\u003eIntegrated the OpenStreetMap JavaScript library.\u003c/li\u003e\u003cli\u003eUtilized Docker for application containerization.\u003c/li\u003e\u003cli\u003eUtilized NodeJs for backend development.\u003c/li\u003e\u003c/ul\u003e",
+          "hidden": false,
+          "id": "5500d026-6644-49c0-96f7-b7d159238c92",
+          "location": "Bangalore",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "period": "21, Oct 2019 – 17, Aug 2020",
+          "position": "Senior Software Engineer",
+          "roles": [],
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "company": "Wipro Limited",
+          "description": "\u003cul\u003e\u003cli\u003eDeveloped and implemented ACES to GST migration modules within the finance domain using Spring 4 MVC.\u003c/li\u003e\u003cli\u003eDesigned and developed RESTful APIs for efficient data transfer between databases and external services.\u003c/li\u003e\u003cli\u003eImplemented core business functionalities and data processing logic using Java, Hibernate, and JPA.\u003c/li\u003e\u003cli\u003eManaged module development within tight project timelines.\u003c/li\u003e\u003cli\u003eUtilized HTML5 and CSS for user interface development.\u003c/li\u003e\u003cli\u003eUtilized Angular for front end development. Implemented ACES to GST migration modules leveraging Spring 4 MVC.\u003c/li\u003e\u003cli\u003eCreated test cases, class diagrams, sequence diagrams, and use cases for Low-Level Design (LLD) documentation.\u003c/li\u003e\u003cli\u003eUtilized Eclipse, JBoss, Git, and Maven for development and debugging.\u003c/li\u003e\u003cli\u003eDeployed Java WAR files on Linux EC2 instances on AWS, providing development support.\u003c/li\u003e\u003c/ul\u003e",
+          "hidden": false,
+          "id": "7133f679-b1d1-419b-b0b9-53e83b48408f",
+          "location": "Bangalore",
+          "options": {
+            "showLinkInTitle": false
+          },
+          "period": "30, Mar 2017 – 17, Oct 2019",
+          "position": "Project Engineer",
+          "roles": [],
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        }
+      ],
+      "title": "Experience"
+    },
+    "interests": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "Interests"
+    },
+    "languages": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "Languages"
+    },
+    "profiles": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "Profiles"
+    },
+    "projects": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "Projects"
+    },
+    "publications": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "Publications"
+    },
+    "references": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "References"
+    },
+    "skills": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "id": "673f4b23-c79b-4395-b9b9-d05e55e8c15b",
+          "keywords": [
+            "Java",
+            "JavaScript",
+            "TypeScript",
+            "SQL",
+            "YAML",
+            "JSON",
+            "HTML5",
+            "CSS",
+            "Shell Scripting",
+            "Python"
+          ],
+          "level": 0,
+          "name": "Languages",
+          "proficiency": ""
+        }
+      ],
+      "title": "Technical Skills"
+    },
+    "volunteer": {
+      "columns": 1,
+      "hidden": true,
+      "items": [],
+      "title": "Volunteer"
+    }
+  },
+  "summary": {
+    "columns": 1,
+    "content": "\u003cp\u003eA Full Stack Developer with 10 Years of Software Development Experience.\u003c/p\u003e",
+    "hidden": false,
+    "title": "Summary"
+  }
+}
